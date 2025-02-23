@@ -14,3 +14,4 @@
     sw s0,result,t3     # Store the result from s0 into the memory location of result
 
     lw t2,result        # Load the result from memory into register t2
+
