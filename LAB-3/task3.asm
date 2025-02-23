@@ -15,3 +15,4 @@
 
     lw t2,result        # Load the result from memory into register t2
 
+
