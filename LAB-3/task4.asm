@@ -11,3 +11,4 @@
     XOR s2,t0,t1  # perform bitwise XOR on t0 and t1, store result in s2
     NOT s3,t0     # perform bitwise NOT on t0, store result in s3
     andi s4,t0,t1 # perform bitwise AND on t0 and t1, store result in s4
+    
