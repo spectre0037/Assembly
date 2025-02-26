@@ -29,3 +29,4 @@ l1:                # Label l1
 SUB s0,s4,s1       # Subtract value in s1 from value in s4, store result in s0
 
 l2:                # Label l2
+LI a0 ,0
