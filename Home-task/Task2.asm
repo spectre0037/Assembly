@@ -1,5 +1,5 @@
 .data 
-    lw t2,12       // Load word from memory address 12 into register t2
+    lw t1,12       // Load word from memory address 12 into register t2
 
     lw t2,13       // Load word from memory address 13 into register t2
 .text
