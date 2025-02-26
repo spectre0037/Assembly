@@ -8,7 +8,6 @@ BNE s0,s1,l1       # Branch to label l1 if s0 is not equal to s1
 
 equal:             # Label equal
 ADD s2 , s3,s4     # Add values in s3 and s4, store result in s2
-li a0 ,0           # Load immediate value 0 into register a0
 
 l1:                # Label l1
 SUB s0,s4,s1       # Subtract value in s1 from value in s4, store result in s0
