@@ -11,3 +11,4 @@ j loop                # Jump back to the start of the loop
 end_loop:      # End of the loop
 li a0, 0       # Set a0 to 0 (could be used for exit or other purposes)
 
+
